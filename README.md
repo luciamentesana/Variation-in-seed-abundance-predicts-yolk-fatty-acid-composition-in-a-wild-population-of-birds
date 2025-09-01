@@ -1,0 +1,2 @@
+# Variation-in-seed-abundance-predicts-yolk-fatty-acid-composition-in-a-wild-population-of-birds
+In this study, we investigated inter-annual variation in yolk fatty acid composition of free-living great tits (Parus major) in relation to fluctuations in beech (Fagus sylvatica) fructification—their preferred food—across two years differing strongly in seed abundance. Here we place the raw data as well as the R codes used.
